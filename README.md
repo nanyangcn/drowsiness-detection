@@ -1,4 +1,4 @@
 # drowsiness-detection
 drowsiness detection to a video or camera with Tensor Flow
 
-![](example.gif)
+<img src="./example.gif" width="240">
